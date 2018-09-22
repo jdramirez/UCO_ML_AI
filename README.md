@@ -19,7 +19,7 @@ Hibridos:
 Otros temas:
   * RL
   
-#### Temas
+#### Areas de interes
   * NLP
   * CV
   * Series de tiempo
