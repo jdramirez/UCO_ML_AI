@@ -1,4 +1,4 @@
-# UCO_ML_AI
+# UCO ML-AI
 Semillero de investigacion, de los estudiantes de la Universidad Catolica de Oriente.
 #### Temas
 Supervisado:
