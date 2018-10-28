@@ -1,10 +1,13 @@
-# UCO_ML_AI
+# UCO ML-AI
 Semillero de investigacion, de los estudiantes de la Universidad Catolica de Oriente.
-#### Temas
+#### Temas introductorios
 Supervisado:
   * ML
-    * Regresion Logistica: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.html)
+    * Regresion Logistica: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.html) | [ver PDF](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.pdf)
     * Arboles
+      * Arboles simples
+      * Random forest 
+      * GBM
     * SVM
   * AI
     * NN
