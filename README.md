@@ -1,5 +1,5 @@
 # UCO ML-AI
-Semillero de investigacion, de los estudiantes de la Universidad Catolica de Oriente.
+Semillero de investigacion, de los estudiantes de la Universidad Catolica de Oriente. Para una mejor visualizacion visita [githubpages]( https://jdramirez.github.io/UCO_ML_AI/)
 #### Temas
 Supervisado:
   * ML
