@@ -6,7 +6,7 @@ Semillero de investigacion de los estudiantes de la Universidad Catolica de Orie
 #### Temas introductorios
 Supervisado:
   * Machine Learning: Podemos ver la inteligencia artificial como un elemento
-    * Regresion Logistica: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.html) | [ver PDF](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.pdf)
+    * Regresion Logistica: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.html) - [ver PDF](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.pdf)
     * Arboles
       * Arboles simples
       * Random forest 
