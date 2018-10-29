@@ -1,8 +1,8 @@
 # UCO ML-AI
-Semillero de investigacion, de los estudiantes de la Universidad Catolica de Oriente.
+Semillero de investigacion de los estudiantes de la Universidad Catolica de Oriente. El objetivo es fortalecer las bases de machine learning y despues profundizar en temas de redes neuronales.
 #### Temas introductorios
 Supervisado:
-  * ML
+  * Machine Learning: Podemos ver la inteligencia artificial como un elemento
     * Regresion Logistica: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.html) | [ver PDF](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.pdf)
     * Arboles
       * Arboles simples
