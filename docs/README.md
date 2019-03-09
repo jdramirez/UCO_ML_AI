@@ -5,10 +5,11 @@ Semillero de investigacion de los estudiantes de la Universidad Catolica de Orie
 
 #### Temas introductorios
 Supervisado:
-  * Machine Learning: Podemos ver la inteligencia artificial como un elemento
+  * Machine Learning: Podemos ver la inteligencia artificial como un elemento que contiene machine learning, representacion de datos y deep learning.
+    * KNN: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/Basic_KNN.html)
     * Regresion Logistica: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.html) - [ver PDF](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.pdf)
     * Arboles
-      * Arboles simples
+      * Arboles simples: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/Trees.html)
       * Random forest 
       * GBM
     * SVM
