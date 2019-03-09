@@ -6,7 +6,7 @@ Supervisado:
     * KNN: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/Basic_KNN.html)
     * Regresion Logistica: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.html) | [ver PDF](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.pdf)
     * Arboles
-      * Arboles simples: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/Trre.html)
+      * Arboles simples: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/Trees.html)
       * Random forest 
       * GBM
     * SVM
