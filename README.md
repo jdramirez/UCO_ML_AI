@@ -3,6 +3,7 @@ Semillero de investigacion, de los estudiantes de la Universidad Catolica de Ori
 #### Temas
 Supervisado:
   * ML
+    * KNN
     * Regresion Logistica: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.html) | [ver PDF](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.pdf)
     * Arboles
       * Arboles simples
