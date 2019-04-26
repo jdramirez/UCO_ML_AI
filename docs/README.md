@@ -18,9 +18,14 @@ Supervisado:
     * RRN
     
 No supervisado:
-  * Clusters
-  * LDA
-
+  * Modelos :
+    * LDA  
+  * Clusters : 
+    * KMeans
+  * Reduccion de dimensiones
+    * PCA  [ver HTML](https://jdramirez.github.io/UCO_ML_AI/PCA.html)
+    * tsne
+    
 Hibridos:
   * Autoencoders
   
