@@ -1,7 +1,7 @@
 # UCO ML-AI
 Semillero de investigacion, de los estudiantes de la Universidad Catolica de Oriente. Para una mejor visualizacion visita [githubpages]( https://jdramirez.github.io/UCO_ML_AI/)
-#### Temas
-Supervisado:
+## Temas
+#### Supervisado:
   * ML
     * KNN: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/Basic_KNN.html)
     * Regresion Logistica: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.html) | [ver PDF](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.pdf)
@@ -14,7 +14,7 @@ Supervisado:
     * NN
     * RRN
     
-No supervisado:
+#### No supervisado:
   * Modelos :
     * LDA  
   * Clusters : 
@@ -30,7 +30,8 @@ Hibridos:
 Otros temas:
   * RL
   
-#### Areas de interes
+### Areas de interes
+Aplicaciones practicas de los algoritmos en datos no estructurados como imagenes y texto.
   * NLP
   * CV
   * Series de tiempo
