@@ -27,15 +27,15 @@ Semillero de investigacion de los estudiantes de la Universidad Catolica de Orie
     * tsne
     
 ### Hibridos:
-  * Autoencoders
-  
+ * Autoencoders
+
 ### Otros temas:
-  * RL
-  * DRL
-  
+ * RL
+ * DRL
+
 ### Areas de interes
 Aplicaciones practicas de los algoritmos en datos no estructurados como imagenes y texto.
-  * NLP
-  * CV
-  * Series de tiempo
-  
+ * NLP
+ * CV
+ * Series de tiempo
+
