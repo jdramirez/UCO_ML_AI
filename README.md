@@ -6,13 +6,14 @@ Semillero de investigacion, de los estudiantes de la Universidad Catolica de Ori
     * KNN: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/Basic_KNN.html)
     * Regresion Logistica: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.html) | [ver PDF](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.pdf)
     * Arboles
-      * Arboles simples: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/Trees.html)
-      * Random forest 
-      * GBM
+     * Arboles simples: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/Trees.html)
+     * Random forest 
+     * GBM
     * SVM
   * AI
     * NN
     * RRN
+    
     
 #### No supervisado:
   * Modelos :
@@ -22,7 +23,7 @@ Semillero de investigacion, de los estudiantes de la Universidad Catolica de Ori
   * Reduccion de dimensiones
     * PCA  [ver HTML](https://jdramirez.github.io/UCO_ML_AI/PCA.html)
     * tsne
-  
+
 
 Hibridos:
   * Autoencoders
