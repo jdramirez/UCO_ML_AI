@@ -22,7 +22,7 @@ Semillero de investigacion, de los estudiantes de la Universidad Catolica de Ori
     * KMeans
   * Reduccion de dimensiones
     * PCA  [ver HTML](https://jdramirez.github.io/UCO_ML_AI/PCA.html)
-    * tsne
+    * tsne [ver HTML](https://jdramirez.github.io/UCO_ML_AI/k-means.html)
 
 
 Hibridos:
