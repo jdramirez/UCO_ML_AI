@@ -3,7 +3,7 @@ Clase para los estudiantes de la Universidad Catolica de Oriente. Para una mejor
 ## Clase 
 - Introduccion a Machine Learning 09022023.
 - Metricas, exploracion de datos 16022023
-- 
+- Aprendizaje no supervizado y PCA 23022023
 
 
 
@@ -30,7 +30,6 @@ Clase para los estudiantes de la Universidad Catolica de Oriente. Para una mejor
   * Reduccion de dimensiones
     * PCA  [ver HTML](https://jdramirez.github.io/UCO_ML_AI/PCA.html)
     * tsne [ver HTML](https://jdramirez.github.io/UCO_ML_AI/k-means.html)
-    *
 
 
 Hibridos:
