@@ -1,5 +1,11 @@
-# UCO ML-AI
-Semillero de investigacion, de los estudiantes de la Universidad Catolica de Oriente. Para una mejor visualizacion visita [githubpages]( https://jdramirez.github.io/UCO_ML_AI/)
+# Estadistica 3, UCO (Jose Daniel Ramirez Soto)
+Clase para los estudiantes de la Universidad Catolica de Oriente. Para una mejor visualizacion visita [githubpages]( https://jdramirez.github.io/UCO_ML_AI/)
+## Clase 
+- Introduccion a Machine Learning.
+- Metricas estadistica
+
+
+
 ## Temas
 #### Supervisado:
   * ML
@@ -36,4 +42,7 @@ Aplicaciones practicas de los algoritmos en datos no estructurados como imagenes
   * NLP
   * CV
   * Series de tiempo
+  
+### Referencias
+
   
