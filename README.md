@@ -1,8 +1,9 @@
-# Estadistica 3, UCO (Jose Daniel Ramirez Soto)
+# Estadistica 3, UCO (Jose Daniel Ramirez Soto) TODO
 Clase para los estudiantes de la Universidad Catolica de Oriente. Para una mejor visualizacion visita [githubpages]( https://jdramirez.github.io/UCO_ML_AI/)
 ## Clase 
-- Introduccion a Machine Learning.
-- Metricas estadistica
+- Introduccion a Machine Learning 09022023.
+- Metricas, exploracion de datos 16022023
+- 
 
 
 
@@ -29,6 +30,7 @@ Clase para los estudiantes de la Universidad Catolica de Oriente. Para una mejor
   * Reduccion de dimensiones
     * PCA  [ver HTML](https://jdramirez.github.io/UCO_ML_AI/PCA.html)
     * tsne [ver HTML](https://jdramirez.github.io/UCO_ML_AI/k-means.html)
+    *
 
 
 Hibridos:
@@ -44,5 +46,7 @@ Aplicaciones practicas de los algoritmos en datos no estructurados como imagenes
   * Series de tiempo
   
 ### Referencias
-
+ * Hal Daumé, A Course in Machine Learning (2017). http://ciml.info/
+ * Robert, James, Trevor, Gareth, Daniela, Witten, Hastie, Tibshirani(2021). An Introduction to Statistical Learning: with Applications in R. Springer
+ * Andreas Mueller ML class, https://youtu.be/d79mzijMAw0
   
