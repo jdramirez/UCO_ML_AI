@@ -1,10 +1,17 @@
 # Estadistica 3, UCO - Jose Daniel Ramirez Soto
 Clase para los estudiantes de la Universidad Catolica de Oriente. Para una mejor visualizacion visita [githubpages]( https://jdramirez.github.io/UCO_ML_AI/)
-## Clase 
-- Introduccion a Machine Learning 09022023.
-- Metricas, exploracion de datos 16022023
-- Aprendizaje no supervizado y PCA 23022023
 
+## Clase 
+
+- Introduccion a Machine Learning 09022023.
+- Metricas, exploracion de datos  16022023
+- Aprendizaje no supervizado y PCA 23022023
+- Regresion lineal
+- Regresion Logistica
+- Arboles y Redes neuronales
+- Series de tiempo
+- Evaluacion de modelos de ML
+- Fundamentos de computacion destribuida y Spark
 
 
 ## Temas
