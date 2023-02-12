@@ -14,7 +14,7 @@ Clase para los estudiantes de la Universidad Catolica de Oriente. Para una mejor
 - Fundamentos de computacion destribuida y Spark
 
 
-## Temas
+## Notebooks
 #### Supervisado:
   * ML
     * KNN: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/Basic_KNN.html)
