@@ -3,7 +3,7 @@ Clase para los estudiantes de la Universidad Catolica de Oriente. Para una mejor
 
 ## Clase 
 
-- Introduccion a Machine Learning y flujos de trabajos en corporaciones [ver clase 09022023](https://jdramirez.github.io/UCO_ML_AI/docs/clases/09022023_UCO.pdf)
+- Introduccion a Machine Learning y flujos de trabajos en corporaciones [ver clase 09022023]([https://jdramirez.github.io/UCO_ML_AI/docs](https://jdramirez.github.io/UCO_ML_AI/clases/09022023_UCO.pdf)
 - Metricas, exploracion de datos  16022023
 - Aprendizaje no supervizado y PCA 23022023
 - Regresion lineal
