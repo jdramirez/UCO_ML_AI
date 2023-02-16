@@ -1,6 +1,20 @@
-# UCO ML-AI
-Semillero de investigacion, de los estudiantes de la Universidad Catolica de Oriente. Para una mejor visualizacion visita [githubpages]( https://jdramirez.github.io/UCO_ML_AI/)
-## Temas
+# Estadistica 3, UCO - Jose Daniel Ramirez Soto
+Clase para los estudiantes de la Universidad Catolica de Oriente. Para una mejor visualizacion visita [githubpages](https://jdramirez.github.io/UCO_ML_AI/)
+
+## Clase 
+
+- Introduccion a Machine Learning y flujos de trabajos en corporaciones [ver clase 09022023](https://jdramirez.github.io/UCO_ML_AI/clases/09022023_UCO.pdf)
+- Metricas, exploracion de datos  16022023
+- Aprendizaje no supervizado y PCA 23022023
+- Regresion lineal
+- Regresion Logistica
+- Arboles y Redes neuronales
+- Series de tiempo
+- Evaluacion de modelos de ML
+- Fundamentos de computacion destribuida y Spark
+
+
+## Notebooks
 #### Supervisado:
   * ML
     * KNN: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/Basic_KNN.html)
@@ -36,4 +50,9 @@ Aplicaciones practicas de los algoritmos en datos no estructurados como imagenes
   * NLP
   * CV
   * Series de tiempo
+  
+### Referencias
+ * Hal Daumé, A Course in Machine Learning (2017). http://ciml.info/
+ * Robert, James, Trevor, Gareth, Daniela, Witten, Hastie, Tibshirani(2021). An Introduction to Statistical Learning: with Applications in R. Springer
+ * Andreas Mueller ML class, https://youtu.be/d79mzijMAw0
   
