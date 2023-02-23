@@ -11,8 +11,8 @@ Clase para los estudiantes de la Universidad Catolica de Oriente. Para una mejor
 - Regresion Logistica 16032023
 - Parcial 23032023
 - Arboles y GBM 30032023
-- Redes neuronales 06042023 
-- No hay clase, Semana Santa 13042023
+- No hay clase, Semana Santa 06042023
+- Redes neuronales 13042023 
 - Seleccion de features y modelos 20042023
 - Series de tiempo   27042023
 - Modelos de series de tiempo  04052023
