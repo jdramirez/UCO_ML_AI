@@ -1,5 +1,14 @@
 # Estadistica 3, UCO - Jose Daniel Ramirez Soto
-Clase para los estudiantes de la Universidad Catolica de Oriente. Para una mejor visualizacion visita [githubpages](https://jdramirez.github.io/UCO_ML_AI/)
+Clase para los estudiantes de la Universidad Catolica de Oriente.
+
+Objective: 
+Compartir el conocimiento en ciencias de datos con los estudiantes de la UCO. Despues del curso deberian tomar decisiones
+basadas en datos y poder aplicar las tecnicas de ML para la solucion de problemas reales.
+
+Key Result: 
+- Incrementar en 10 el numero de cientificos de datos en la Universidad Catolica.
+- Incrementar el uso de python en 10 ingenieros en la exploracion de datos
+ 
 
 ## Clase 
 
@@ -23,6 +32,7 @@ Clase para los estudiantes de la Universidad Catolica de Oriente. Para una mejor
 - Final 08062023
 
 ## Notebooks
+Para una mejor visualizacion visita [githubpages](https://jdramirez.github.io/UCO_ML_AI/)
 #### Supervisado:
   * ML
     * KNN: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/Basic_KNN.html)
