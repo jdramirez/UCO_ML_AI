@@ -18,8 +18,8 @@ Key Result:
 - KNN, Regresion lineal 02032023 [ver clase 23022023](https://jdramirez.github.io/UCO_ML_AI/clases/02032023_UCO.pdf) | [Video](https://drive.google.com/file/d/1CxVoG_kLidK2KJSRWHL3xKygY4icCefT/view?usp=sharing) - [Video office hours](https://drive.google.com/file/d/1xhnoD6IO1JttHHCTilMYZxo59DtQIAVn/view?usp=sharing) | [Notebook](https://github.com/jdramirez/UCO_ML_AI/blob/master/src/notebook_class/supervisado/supervisado_datos.ipynb) | [lectura KNN]( http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) [lectura regresion](http://ciml.info/dl/v0_99/ciml-v0_99-ch07.pdf) | [Video recomendado knn](https://www.youtube.com/watch?v=7_YzyMYC2zM&list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM&index=4) - [Video recomendado regresion](https://www.youtube.com/watch?v=-OOsfj5Revo&list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM&index=6)
 - Regresion lineal Parte 2 09032023
 - Regresion Logistica 16032023
-- Parcial 23032023
-- Arboles y GBM 30032023
+- Arboles y GBM 23032023
+- Parcial 30032023
 - No hay clase, Semana Santa 06042023
 - Redes neuronales 13042023 
 - Seleccion de features y modelos 20042023
