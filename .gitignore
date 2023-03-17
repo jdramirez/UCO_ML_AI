@@ -1,4 +1,5 @@
 
 *.ipynb_checkpoints
 src/notebook/data/*
-.idea/vcs.xml
+.idea*
+.DS_Store*
