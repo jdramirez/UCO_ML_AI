@@ -1,16 +1,16 @@
 # Estadistica 3, UCO - Jose Daniel Ramirez Soto
 Clase para los estudiantes de la Universidad Catolica de Oriente.
 
-Objective: 
+Objective:
 Compartir el conocimiento en ciencias de datos con los estudiantes de la UCO. Despues del curso deberian tomar decisiones
 basadas en datos y poder aplicar las tecnicas de ML para la solucion de problemas reales.
 
-Key Result: 
+Key Result:
 - Incrementar en 10 el numero de cientificos de datos en la Universidad Catolica.
 - Incrementar el uso de python en 10 ingenieros en la exploracion de datos
- 
 
-## Clase 
+
+## Clase
 
 - Introduccion a Machine Learning y flujos de trabajos en corporaciones [ver clase 09022023](https://jdramirez.github.io/UCO_ML_AI/clases/09022023_UCO.pdf)
 - Metricas, exploracion de datos  16022023 [ver clase 16022023](https://jdramirez.github.io/UCO_ML_AI/clases/16022023_UCO.pdf) | [Video](https://drive.google.com/file/d/1e2GbTu7ngcX9rRHK2lsfadLXrdzmp-Dk/view?usp=sharing) | [Notebook](https://github.com/jdramirez/UCO_ML_AI/blob/master/src/notebook_class/exploracion/exploracion_datos.ipynb) | [lectura]( http://ciml.info/dl/v0_99/ciml-v0_99-ch15.pdf) | [Video recomendado data visualization](https://www.youtube.com/watch?v=OW3oco7nlV4&list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM&index=3)
@@ -19,13 +19,13 @@ Key Result:
 - Regresion lineal Parte 2 09032023 [ver clase 16032023](https://jdramirez.github.io/UCO_ML_AI/clases/16032023_UCO.pdf) | [Video](https://drive.google.com/file/d/16r25LYDNF4TnL0oxZWkQnfamJzg-riMt/view?usp=sharing) - [Video office hours](https://drive.google.com/file/d/1uPQ7xIQTWf3RJtPruUuaavhivlR18KV3/view?usp=sharing) | [Notebook](https://github.com/jdramirez/UCO_ML_AI/blob/master/src/notebook_class/supervisado/supervisado_regresion.ipynb) | [lectura regresion](http://ciml.info/dl/v0_99/ciml-v0_99-ch07.pdf) |  [Video recomendado regresion](https://www.youtube.com/watch?v=-OOsfj5Revo&list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM&index=6)
 - Regresion Logistica 16032023 [ver clase 23032023](https://jdramirez.github.io/UCO_ML_AI/clases/23032023_UCO.pdf) | [Video](https://drive.google.com/file/d/1WuUsknm9RMoXrBWvD0hDttC5KXdSjI5q/view?usp=sharing) - [Video office hours (No asistieron)]() | [Notebook](https://github.com/jdramirez/UCO_ML_AI/blob/master/src/notebook_class/supervisado/supervisado_regresion_logistic.ipynb) | [lectura regresion](http://ciml.info/dl/v0_99/ciml-v0_99-ch07.pdf) |  [Video recomendado clasificacion](https://www.youtube.com/watch?v=_dqBhUrq09U&list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM&index=7)
 - Arboles y GBM 23032023
-- Parcial 30032023
+- Parcial 30032023 [ver solucion](https://jdramirez.github.io/UCO_ML_AI/parcial/parcial_solucion.pdf) | [Notebook](https://github.com/jdramirez/UCO_ML_AI/blob/master/src/notebook_class/parcial/solucion_parcial.ipynb)
 - No hay clase, Semana Santa 06042023
 - Redes neuronales 13042023 
 - Seleccion de features y modelos 20042023
 - Series de tiempo   27042023
 - Modelos de series de tiempo  04052023
-- Redes neuronales 2 11052023 
+- Redes neuronales 2 11052023
 - Evaluacion de modelos  18052023
 - Fundamentos de computacion distribuida y Spark 25052023
 - Presentacion proyecto final 01062023
@@ -39,18 +39,18 @@ Para una mejor visualizacion visita [githubpages](https://jdramirez.github.io/UC
     * Regresion Logistica: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.html) | [ver PDF](https://jdramirez.github.io/UCO_ML_AI/logistic_regression_by_hand.pdf)
     * Arboles
      * Arboles simples: [ver HTML](https://jdramirez.github.io/UCO_ML_AI/Trees.html)
-     * Random forest 
+     * Random forest
      * GBM
     * SVM
   * AI
     * NN
     * RRN
-    
-    
+
+
 #### No supervisado:
   * Modelos :
     * LDA  
-  * Clusters : 
+  * Clusters :
     * KMeans
   * Reduccion de dimensiones
     * PCA  [ver HTML](https://jdramirez.github.io/UCO_ML_AI/PCA.html)
@@ -59,18 +59,17 @@ Para una mejor visualizacion visita [githubpages](https://jdramirez.github.io/UC
 
 Hibridos:
   * Autoencoders
-  
+
 Otros temas:
   * RL
-  
+
 ### Areas de interes
 Aplicaciones practicas de los algoritmos en datos no estructurados como imagenes y texto.
   * NLP
   * CV
   * Series de tiempo
-  
+
 ### Referencias
  * Hal Daumé, A Course in Machine Learning (2017). http://ciml.info/
  * Robert, James, Trevor, Gareth, Daniela, Witten, Hastie, Tibshirani(2021). An Introduction to Statistical Learning: with Applications in R. Springer
  * Andreas Mueller ML class, https://youtu.be/d79mzijMAw0
-  
