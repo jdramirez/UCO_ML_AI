@@ -21,11 +21,11 @@ Key Result:
 - Arboles y GBM 23032023 [ver clase 13042023](https://jdramirez.github.io/UCO_ML_AI/clases/13042023_UCO.pdf)|[Video](https://drive.google.com/file/d/1G3ZeAE59bKwa-KcIhh_iRYyTnPGCPUAK/view?usp=sharing)- [Video office hours](https://drive.google.com/file/d/1zdex6JKmwDQJDAUisNSJdDpfUCObBO8O/view?usp=sharing)| [Notebook](https://github.com/jdramirez/UCO_ML_AI/blob/master/src/notebook_class/supervisado/supervisado_regresion_logistic.ipynb) 
 - Parcial 30032023 [ver solucion](https://jdramirez.github.io/UCO_ML_AI/parcial/parcial_solucion.pdf) | [Notebook](https://github.com/jdramirez/UCO_ML_AI/blob/master/src/notebook_class/parcial/solucion_parcial.ipynb)
 - No hay clase, Semana Santa 06042023
-- Redes neuronales (Intro gradiente utilizando regresion logistica) 13042023 [ver clase 20042023](https://jdramirez.github.io/UCO_ML_AI/clases/20042023_UCO.pdf)|[Video](https://drive.google.com/file/d/1q2rVAgefhFuVWHo7nuAg0h3mSBwYFukd/view?usp=sharing)- [Video office hours](https://drive.google.com/file/d/1DiqU8wKfesQ10WkFKt6b0k60AZEA8jl8/view?usp=sharing)| [Notebook](https://github.com/jdramirez/UCO_ML_AI/blob/master/src/notebook/logistic_regression_by_hand.ipynb) 
-- Seleccion de features y modelos (Arboles 2) 20042023  [ver clase 270423](https://jdramirez.github.io/UCO_ML_AI/clases/27042023_UCO.pdf)|
-- Series de tiempo   27042023
-- Modelos de series de tiempo  04052023
-- Redes neuronales 2 11052023
+- Redes neuronales (Intro gradiente utilizando regresion logistica) 13042023 [ver clase 20042023](https://jdramirez.github.io/UCO_ML_AI/clases/20042023_UCO.pdf) | [Video](https://drive.google.com/file/d/1q2rVAgefhFuVWHo7nuAg0h3mSBwYFukd/view?usp=sharing) - [Video office hours](https://drive.google.com/file/d/1DiqU8wKfesQ10WkFKt6b0k60AZEA8jl8/view?usp=sharing)| [Notebook](https://github.com/jdramirez/UCO_ML_AI/blob/master/src/notebook/logistic_regression_by_hand.ipynb) 
+- Seleccion de features y modelos (Arboles 2) 20042023  [ver clase 270423](https://jdramirez.github.io/UCO_ML_AI/clases/27042023_UCO.pdf) | [Video](https://drive.google.com/file/d/1s8vkvyZRdzPiX5VJV-DgEtXPQGrsJcF2/view?usp=sharing) - [Video office hours](https://drive.google.com/file/d/1J3bQQtpTtIRnME9YVRcXh9oqWljd8M78/view?usp=sharing)
+- Redes neuronales 2 27042023  [Ver clase 04052023](https://jdramirez.github.io/UCO_ML_AI/clases/04052023_UCO.pdf) |[Video](https://drive.google.com/file/d/1e0NXE47k-uSE9ozUGVJq-P59-A2NTWcR/view?usp=sharing) - [Video office hours](https://drive.google.com/file/d/1sy00q2deyVWbwTfaQc8e0lRTx0ieeYAi/view) | [Notebook](http://localhost:8888/notebooks/src/notebook_class/supervisado/supervisado_neural_nets.ipynb)
+- Redes neuronales convolucionales 04052023  [ver clase 11052023](https://jdramirez.github.io/UCO_ML_AI/clases/11052023_UCO.pdf) | [Video](https://drive.google.com/file/d/1eQkKNsANYLb9PdOV0c0ultU8rqVheTeV/view?usp=sharing) | Video Office hours (Ninguna pregunta)| [Notebook](http://localhost:8888/notebooks/src/notebook_class/supervisado/supervisado_neural_nets.ipynb)
+- Series de tiempo y Modelos de series de tiempo 11052023
 - Evaluacion de modelos  18052023
 - Fundamentos de computacion distribuida y Spark 25052023
 - Presentacion proyecto final 01062023
