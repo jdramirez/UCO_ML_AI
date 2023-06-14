@@ -25,10 +25,10 @@ Key Result:
 - Seleccion de features y modelos (Arboles 2) 20042023  [ver clase 270423](https://jdramirez.github.io/UCO_ML_AI/clases/27042023_UCO.pdf) | [Video](https://drive.google.com/file/d/1s8vkvyZRdzPiX5VJV-DgEtXPQGrsJcF2/view?usp=sharing) - [Video office hours](https://drive.google.com/file/d/1J3bQQtpTtIRnME9YVRcXh9oqWljd8M78/view?usp=sharing)
 - Redes neuronales 2 27042023  [Ver clase 04052023](https://jdramirez.github.io/UCO_ML_AI/clases/04052023_UCO.pdf) |[Video](https://drive.google.com/file/d/1e0NXE47k-uSE9ozUGVJq-P59-A2NTWcR/view?usp=sharing) - [Video office hours](https://drive.google.com/file/d/1sy00q2deyVWbwTfaQc8e0lRTx0ieeYAi/view) | [Notebook](http://localhost:8888/notebooks/src/notebook_class/supervisado/supervisado_neural_nets.ipynb)
 - Redes neuronales convolucionales 04052023  [ver clase 11052023](https://jdramirez.github.io/UCO_ML_AI/clases/11052023_UCO.pdf) | [Video](https://drive.google.com/file/d/1eQkKNsANYLb9PdOV0c0ultU8rqVheTeV/view?usp=sharing) | Video Office hours (Ninguna pregunta)| [Notebook](http://localhost:8888/notebooks/src/notebook_class/supervisado/supervisado_neural_nets.ipynb)
-- Series de tiempo y Modelos de series de tiempo 11052023
-- Evaluacion de modelos  18052023
-- Fundamentos de computacion distribuida y Spark 25052023
-- Presentacion proyecto final 01062023
+- Series de tiempo y Modelos de series de tiempo 11052023  [ver clase 18052023](https://jdramirez.github.io/UCO_ML_AI/clases/18052023_UCO.pdf) | [Video]( https://drive.google.com/file/d/151Mye9Cq3oFaaDH0EqG0VV33DlUMFucR/view?usp=sharing) | Video Office hours (Ninguna pregunta)| [Notebook](http://localhost:8888/notebooks/src/notebook_class/supervisado/supervisado_neural_nets.ipynb) 
+- Evaluacion de modelos  18052023    [ver clase 25052023](https://jdramirez.github.io/UCO_ML_AI/clases/25052023_UCO.pdf) | [Video]( https://drive.google.com/file/d/1UZoXmCriXJNG6TvQiHHPq4JGeB5MMKZ8/view?usp=sharing) | Video Office hours (Ninguna pregunta)| [Notebook](http://localhost:8888/notebooks/src/notebook_class/supervisado/supervisado_neural_nets.ipynb)
+- Fundamentos de computacion distribuida y Spark 25052023 [ver clase 01062023](https://jdramirez.github.io/UCO_ML_AI/clases/01062023_UCO.pdf) | (In person)) | Video Office hours (Ninguna pregunta)| [Notebook](http://localhost:8888/notebooks/src/notebook_class/supervisado/supervisado_neural_nets.ipynb)
+- Presentacion tarea final 01062023 [Kaggle](https://www.kaggle.com/c/uco-plant-seedlings-classification)
 - Final 08062023
 
 ## Notebooks
