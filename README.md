@@ -1,4 +1,4 @@
-# Estadistica 3, UCO - Jose Daniel Ramirez Soto
+# Estadistica 3, UCO - Jose Daniel Ramirez Soto 02-2023
 Clase para los estudiantes de la Universidad Catolica de Oriente.
 
 Objective:
@@ -6,9 +6,12 @@ Compartir el conocimiento en ciencias de datos con los estudiantes de la UCO. De
 basadas en datos y poder aplicar las tecnicas de ML para la solucion de problemas reales.
 
 Key Result:
-- Incrementar en 10 el numero de cientificos de datos en la Universidad Catolica.
+- Incrementar en 6 el numero de cientificos de datos en la Universidad Catolica.
 - Incrementar el uso de python en 10 ingenieros en la exploracion de datos
 
+## Books
+ - Gareth James, An Introduction to Statistical Learning (2023): https://hastie.su.domains/ISLP/ISLP_website.pdf
+ - Hal Daumé, A Course in Machine Learning (2017). http://ciml.info/
 
 ## Clase
 
@@ -73,3 +76,4 @@ Aplicaciones practicas de los algoritmos en datos no estructurados como imagenes
  * Hal Daumé, A Course in Machine Learning (2017). http://ciml.info/
  * Robert, James, Trevor, Gareth, Daniela, Witten, Hastie, Tibshirani(2021). An Introduction to Statistical Learning: with Applications in R. Springer
  * Andreas Mueller ML class, https://youtu.be/d79mzijMAw0
+ * https://hastie.su.domains/ISLP/ISLP_website.pdf
