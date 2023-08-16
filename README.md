@@ -13,7 +13,16 @@ Key Result:
  - Gareth James, An Introduction to Statistical Learning (2023): https://hastie.su.domains/ISLP/ISLP_website.pdf
  - Hal Daumé, A Course in Machine Learning (2017). http://ciml.info/
 
-## Clase
+## Clase 202302
+- Introduccion a Machine Learning y flujos de trabajos en corporaciones 18072023[Video](https://drive.google.com/file/d/1LsZNry_Hebcr4e1Dtqaf3f5YVPNlgfvo/view?usp=sharing)
+- Metricas, exploracion de datos  25072023 [Video](https://drive.google.com/file/d/1KeFiVaPH8WDGqISThyortZ2TDwDW6ffH/view?usp=sharing)
+- Aprendizaje no supervisado y PCA 01082023 [Video](https://drive.google.com/file/d/1Ux8dvOCh7q6QSq963rfZNOg_LfOF_YnB/view?usp=sharing)
+- Aprendizaje no supervisado y PCA 2 08082023 [Video](https://drive.google.com/file/d/1cufMXcLGsbl2ZNBHLH76WTrFU3VJ4yES/view?usp=sharing)
+- KNN, Regresion lineal  15082023 [Video](https://drive.google.com/file/d/1pjOLXk_-ZzREYbl5yu2U8fBZ6z7JQSJl/view?usp=sharing)
+
+
+
+## Clase 202301
 
 - Introduccion a Machine Learning y flujos de trabajos en corporaciones [ver clase 09022023](https://jdramirez.github.io/UCO_ML_AI/clases/09022023_UCO.pdf)
 - Metricas, exploracion de datos  16022023 [ver clase 16022023](https://jdramirez.github.io/UCO_ML_AI/clases/16022023_UCO.pdf) | [Video](https://drive.google.com/file/d/1e2GbTu7ngcX9rRHK2lsfadLXrdzmp-Dk/view?usp=sharing) | [Notebook](https://github.com/jdramirez/UCO_ML_AI/blob/master/src/notebook_class/exploracion/exploracion_datos.ipynb) | [lectura]( http://ciml.info/dl/v0_99/ciml-v0_99-ch15.pdf) | [Video recomendado data visualization](https://www.youtube.com/watch?v=OW3oco7nlV4&list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM&index=3)
