@@ -19,8 +19,9 @@ Key Result:
 - Aprendizaje no supervisado y PCA 01082023 [Video](https://drive.google.com/file/d/1Ux8dvOCh7q6QSq963rfZNOg_LfOF_YnB/view?usp=sharing)
 - Aprendizaje no supervisado y PCA 2 08082023 [Video](https://drive.google.com/file/d/1cufMXcLGsbl2ZNBHLH76WTrFU3VJ4yES/view?usp=sharing)
 - KNN, Regresion lineal  15082023 [Video](https://drive.google.com/file/d/1pjOLXk_-ZzREYbl5yu2U8fBZ6z7JQSJl/view?usp=sharing)
-- Regresion lineal  22082023 [Video](https://drive.google.com/file/d/1Mhb5VCs-zHqnTBjkRE3U2qF02s1KVqbH/view?usp=drive_link)
+- Regresion lineal 2 22082023 [Video](https://drive.google.com/file/d/1Mhb5VCs-zHqnTBjkRE3U2qF02s1KVqbH/view?usp=drive_link)
 - Regresion logisica  29082023 [Video](https://drive.google.com/file/d/1qZ3yf9a6brXAmbMvkQ0GJHyhFX3tJb7n/view?usp=sharing)
+- Regresion logisica 2 05092023 [Video](https://drive.google.com/file/d/1nwihHiDSNfoku5_COTrKYtG5eHTG1zTu/view?usp=sharing)
 
 
 ## Clase 202301

@@ -4,3 +4,4 @@ src/notebook/data/*
 .idea*
 .DS_Store*
 venv/*
+solucion/tarea 4/data/oob_pred.csv
