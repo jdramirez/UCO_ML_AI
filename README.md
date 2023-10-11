@@ -22,7 +22,11 @@ Key Result:
 - Regresion lineal 2 22082023 [Video](https://drive.google.com/file/d/1Mhb5VCs-zHqnTBjkRE3U2qF02s1KVqbH/view?usp=drive_link)
 - Regresion logisica  29082023 [Video](https://drive.google.com/file/d/1qZ3yf9a6brXAmbMvkQ0GJHyhFX3tJb7n/view?usp=sharing)
 - Regresion logisica 2 05092023 [Video](https://drive.google.com/file/d/1nwihHiDSNfoku5_COTrKYtG5eHTG1zTu/view?usp=sharing)
-
+- Parcial 12092023 [Preparacion Parcial](https://drive.google.com/file/d/1dzRnPrGCW0RDHkz1Dcg4cp9P6jvXUNC6/view?usp=sharing)
+- Arboles y GBM  19092023 [Video](https://drive.google.com/file/d/1Vp4o_w2fBoOwOUlI33Hi63-QaiNum2KE/view?usp=sharing)
+- Redes neuronales (Intro gradiente) 26092023 [Video](https://drive.google.com/drive/u/1/folders/1Osh-XSVq8zEcTNn-XkJyajXRqPijWmY-)
+- Redes neuronales 2 03102023 [Video](https://drive.google.com/file/d/1bQqpktaAZ6LN60LonvMhCJXmBJSmM9qa/view?usp=sharing)
+- Redes convolucionales CNN 10102023 [Video](https://drive.google.com/file/d/1m2XtiKc3tOypTsZjyFxAYA02E294iYe-/view?usp=sharing)
 
 ## Clase 202301
 
