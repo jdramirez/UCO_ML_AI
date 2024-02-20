@@ -10,7 +10,7 @@ Key Result:
 - Incrementar el uso de python en 10 ingenieros en la exploracion de datos
 
 ## Books
- - Gareth James, An Introduction to Statistical Learning (2023): https://hastie.su.domains/ISLP/ISLP_website.pdf
+ - Gareth James, An Introduction to Statistical Learning (2023): https://hastie.su.domains/ISLP/ISLP_website.pdf.view-in-google.html
  - Hal Daumé, A Course in Machine Learning (2017). http://ciml.info/
 
 ## Clase 202302
