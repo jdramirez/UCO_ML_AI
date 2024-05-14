@@ -1,4 +1,5 @@
 # Estadistica 3, UCO - Jose Daniel Ramirez Soto 02-2023
+
 Clase para los estudiantes de la Universidad Catolica de Oriente.
 
 Objective:
