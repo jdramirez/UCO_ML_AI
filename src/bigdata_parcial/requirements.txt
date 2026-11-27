@@ -1,0 +1,11 @@
+streamlit>=1.50
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+plotly>=5.14
+pillow>=9.0
+joblib>=1.2
+seaborn>=0.12
+matplotlib>=3.6
+# Para la CNN y la LSTM (y para que el tablero cargue esos modelos)
+tensorflow>=2.12

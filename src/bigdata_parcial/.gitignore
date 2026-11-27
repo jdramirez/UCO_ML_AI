@@ -1,0 +1,7 @@
+# Respuestas del examen: NO subir al repositorio de los estudiantes
+_solo_profesor/
+# Datos crudos de la recoleccion (incluyen imagenes descartadas). Los datos finales estan en data/
+data_reales/
+__pycache__/
+.venv/
+.DS_Store
